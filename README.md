@@ -1,11 +1,9 @@
 # Homebrew Tap
 
-Homebrew Casks maintained by [nickdoesntwantspam](https://github.com/nickdoesntwantspam).
+Homebrew tap maintained by [nickdoesntwantspam](https://github.com/nickdoesntwantspam).
 
-Mac Input Lock will be added after its first signed and notarized release is published. At that point it will install with:
+## Mac Input Lock
 
-```sh
-brew install --cask nickdoesntwantspam/tap/mac-input-lock
-```
+The Mac Input Lock Cask has been retired. The project remains open source, but its official signed and notarized build is now distributed through [macinputlock.com](https://macinputlock.com/#get-the-app) for a one-time $9 payment.
 
-No Cask is published before a corresponding verifiable release artifact exists.
+The complete source and free build instructions remain available at [nickdoesntwantspam/mac-input-lock](https://github.com/nickdoesntwantspam/mac-input-lock#build-from-source).
